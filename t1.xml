@@ -1,0 +1,72 @@
+<database name="ce126">
+<columns name="test_bda">
+<col>
+<name>id</name>
+<type>4</type>
+</col>
+<col>
+<name>title</name>
+<type>12</type>
+</col>
+<col>
+<name>expired_date</name>
+<type>91</type>
+</col>
+<col>
+<name>amount</name>
+<type>3</type>
+</col>
+</columns><table name="test_bda">
+<column name="id">1</column>
+<column name="title">Jockey</column>
+<column name="expired_date">2021-05-04</column>
+<column name="amount">120.00</column>
+
+</table>
+<table name="test_bda">
+<column name="id">2</column>
+<column name="title">Macho</column>
+<column name="expired_date">2022-02-03</column>
+<column name="amount">80.00</column>
+
+</table>
+<table name="test_bda">
+<column name="id">3</column>
+<column name="title">Boss</column>
+<column name="expired_date">2020-10-11</column>
+<column name="amount">75.00</column>
+
+</table>
+<columns name="user">
+<col>
+<name>username</name>
+<type>12</type>
+</col>
+<col>
+<name>password</name>
+<type>12</type>
+</col>
+</columns><table name="user">
+<column name="username">mr1_143</column>
+<column name="password">mmrr@11111</column>
+
+</table>
+<table name="user">
+<column name="username">mr2_143</column>
+<column name="password">mmrr@111111</column>
+
+</table>
+<table name="user">
+<column name="username">mr4_143</column>
+<column name="password">mmrr@11111111</column>
+
+</table>
+<table name="user">
+<column name="username">mr6_143</column>
+<column name="password">mmrr@1111111111</column>
+
+</table>
+<table name="user">
+<column name="username">mr_143</column>
+<column name="password">mmrr@1111</column>
+</table>
